@@ -1,0 +1,6 @@
+{
+    "name": "Activity Tracker",
+    "description": "Links up with the interface for Activity Tracker Management",
+    "icon" : "/images/module-icon.svg",
+    "version" : "0.1"
+}
