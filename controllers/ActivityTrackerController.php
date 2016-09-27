@@ -13,6 +13,10 @@ use matacms\controllers\base\AuthenticatedController;
 /**
  * ContentBlockController implements the CRUD actions for ContentBlock model.
  */
-class ContentBlockController extends AuthenticatedController
+class ActivityTrackerController extends AuthenticatedController
 {
+    public function actionIndex()
+    {
+        return $this->render('index');
+    }
 }
