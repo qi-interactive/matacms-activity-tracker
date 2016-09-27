@@ -1,0 +1,18 @@
+{
+    "name": "matacms/matacms-activitytracker",
+    "description": "Links up MATA CMS with the Activity Tracker Management Console.",
+    "keywords": ["yii2", "matacms-activitytracker", "activitytracker", "mata"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "matacms\\activitytracker\\": ["../../../mata-cms/modules/matacms/matacms-activitytracker", ""]
+        }
+    },
+    "extra": {
+        "bootstrap": "matacms\\activitytracker\\Bootstrap"
+    }
+}
