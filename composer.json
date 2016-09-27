@@ -1,5 +1,5 @@
 {
-    "name": "matacms/matacms-activitytracker",
+    "name": "matacms/matacms-activity-tracker",
     "description": "Links up MATA CMS with the Activity Tracker Management Console.",
     "keywords": ["yii2", "matacms-activitytracker", "activitytracker", "mata"],
     "type": "yii2-extension",
