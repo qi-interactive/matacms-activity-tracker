@@ -9,7 +9,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "matacms\\activitytracker\\": ["../../../mata-cms/modules/matacms/matacms-activitytracker", ""]
+            "matacms\\activitytracker\\": ["../../../mata-cms/modules/matacms/matacms-activity-tracker", ""]
         }
     }
 }
