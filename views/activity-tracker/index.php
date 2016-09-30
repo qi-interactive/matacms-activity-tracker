@@ -14,5 +14,4 @@
 }
 </style>
 
-
-<iframe id="iframe-management" src="http://activity-tracker-management.qi-interactive.com/report/index"></iframe>
+<iframe id="iframe-management" src="http://activity-tracker-management.qi-interactive.com"></iframe>
